@@ -1,7 +1,7 @@
 DAEF: A Real-Time End-to-End Battery Defect Detection Model with Edge Feature Aggregation and Hard Sample Focusing
 
 ## 1. Description
-
+            
 This dataset, named **BSD**, was collected from battery production lines. It contains 1,266 images in total, each of size 5184×3456 pixels. The dataset is designed to aid in real-time battery surface defect detection and includes five distinct defect categories:
 
 - **Indentation (Id): irregular lateral surface indentations**
@@ -175,7 +175,7 @@ Upon running the model, the expected outputs include:
 ## 10. Acknowledgement
 This work builds upon the DEIM framework. For more details on DEIM, please refer to the official repository: [DEIM on GitHub](https://github.com/Intellindust-AI-Lab/DEIM)
 
-For any questions regarding the BSD dataset or the DAEF model, please contact: [DAEF]()
+For any questions regarding the BSD dataset or the DAEF model, please contact: [DAEF](https://github.com/sober-white/DAEF)
 
 ✨ Feel free to contribute and reach out if you have any questions! ✨
 
